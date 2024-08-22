@@ -1,0 +1,10 @@
+Group is 
+	$/smlnj-lib.cm
+	$smlnj/compiler/compiler.cm
+	$/ml-yacc-lib.cm
+	$/basis.cm
+	Data_types.sml
+	Symbol_table.sml
+	VHDL_lex.lex
+	VHDL_yacc.yacc:MLYacc
+	VHDL_ast.sml
